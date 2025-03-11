@@ -1,0 +1,27 @@
+1. Patient Information
+   - Name:
+   - Date of Birth:
+   - Gender:
+   - Address:
+   - Phone Number:
+   - Email:
+
+2. Medical History
+   - Do you have any allergies? (Yes/No)
+   - If yes, please specify:
+   - Have you had any surgeries? (Yes/No)
+   - If yes, please specify:
+   - List any current medications:
+
+3. Current Health Status
+   - What is your primary concern?
+   - How long have you had this concern?
+   - Rate your pain level (1-10):
+
+4. Lifestyle Information
+   - Do you smoke? (Yes/No)
+   - Do you consume alcohol? (Yes/No)
+   - How often do you exercise?
+
+5. Additional Comments:
+   - Please provide any additional information:
